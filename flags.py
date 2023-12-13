@@ -1,11 +1,13 @@
 """
+
 Version: 0.1
 Author: Greta Konyarska
 Date: 2023-12-14
+
 """
 
 a = 5
-b = 10
+b = 13
 c = 3
 d = 4
 e = 5
@@ -13,10 +15,10 @@ a += b
 a -= c
 a *= d
 a /= e
-print("a = ", a)
+print("a= ", a)
 
-flag1 = 3 > 2
-flag2 = 2 < 1
+flag1 = 1 > 7
+flag2 = 8 < 4
 flag3 = flag1 and flag2
 flag4 = flag1 or flag2
 flag5 = not flag1
