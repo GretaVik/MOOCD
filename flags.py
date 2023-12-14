@@ -1,7 +1,9 @@
 """
+
 Version: 0.1
 Author: Greta Konyarska
 Date: 2023-12-14
+
 """
 
 a = 5
@@ -14,7 +16,6 @@ a -= c
 a *= d
 a /= e
 print("a=", a)
-
 flag1 = 3 > 4
 flag2 = 2 < 1
 flag3 = flag1 and flag2
